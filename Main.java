@@ -7,19 +7,12 @@ public class Main {
 	Locale.setDefault(Locale.US);	
  Scanner sc = new Scanner(System.in);
 
- double A = sc.nextDouble();
- double B = sc.nextInt();
- double C = sc.nextFloat();
+System.out.println("Olá mundo");
  
- double salary = B * C;
+ 
+ 
+ 
 
-System.out.println("NUMBER = " + A);
-System.out.println("SALARY = " + salary);
- 
- 
- 
- 
- sc.close();
   
 		 
 
